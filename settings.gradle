@@ -1,0 +1,66 @@
+plugins {
+  id "com.gradle.enterprise" version "3.1.1"
+}
+
+gradleEnterprise {
+	buildScan {
+		termsOfServiceUrl = 'https://gradle.com/terms-of-service'
+		termsOfServiceAgree = 'yes'
+	}
+}
+
+rootProject.name='webdemo'
+
+include ":jar"
+include ":war"
+include ":war0"
+include ":war1"
+include ":war2"
+include ":war3"
+include ":war4"
+include ":war5"
+include ":war6"
+include ":war7"
+include ":war8"
+include ":war9"
+include ":war10"
+include ":war11"
+include ":war12"
+include ":war13"
+include ":war14"
+include ":war15"
+include ":war16"
+include ":war17"
+include ":war18"
+include ":war19"
+include ":war20"
+include ":war21"
+include ":war22"
+include ":war23"
+include ":war24"
+include ":war25"
+include ":war26"
+include ":war27"
+include ":war28"
+include ":war29"
+include ":war30"
+include ":war31"
+include ":war32"
+include ":war33"
+include ":war34"
+include ":war35"
+include ":war36"
+include ":war37"
+include ":war38"
+include ":war39"
+include ":war40"
+include ":war41"
+include ":war42"
+include ":war43"
+include ":war44"
+include ":war45"
+include ":war46"
+include ":war47"
+include ":war48"
+include ":war49"
+include ":war50"
